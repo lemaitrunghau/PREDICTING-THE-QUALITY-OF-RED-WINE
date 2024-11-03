@@ -1,0 +1,5 @@
+B1 : Truy cập liên kết : https://drive.google.com/drive/folders/1WudheplT87SPsdVLJpxVi8UR3fHvxqGa?usp=sharing
+B2 : Cho phép kết nối ggcolab với ggdrive của bạn
+B3 : Tải về máy của bạn và Importfile csv trong file Data ( winequality-red ) vào ggdrive
+B4 : Ở bước Chuẩn bị dữ liệu -> Copy đường dẫn của file winequality-red ở ggdrive 
+B5 : Run all code và xem kết quả
